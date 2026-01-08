@@ -3,7 +3,7 @@ const aboutMe = {
   name: "Wesley",
   country: "Brazil",
   role: "Developer",
-  company: "CI&T",
+  company: "Bradesco",
 }
 
 function welcome() {
